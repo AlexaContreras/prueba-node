@@ -1,0 +1,80 @@
+[
+ {
+  "idPedido": 1,
+  "esParaDelivery": true,
+  "direccionCliente": "Talcahuano 1071",
+  "nombreCliente": "Alexa",
+  "telefonoCliente": "53647474747",
+  "gustoPizza": "Jamón",
+  "tamanioPizza": "Mediano",
+  "conBebida": true,
+  "gustoBebida": "Mirinda",
+  "clienteHabitual": false,
+  "fechaDelPedido": "2019-10-31",
+  "horaDelPedido": "22:08:37",
+  "totalPedido": 627,
+  "descuento": 5
+ },
+ {
+  "idPedido": 2,
+  "esParaDelivery": false,
+  "nombreCliente": "Majo",
+  "telefonoCliente": "7474744796995",
+  "gustoPizza": "Muzza",
+  "tamanioPizza": "Personal",
+  "conBebida": true,
+  "gustoBebida": "Coca-Cola",
+  "clienteHabitual": true,
+  "gustoEmpanadas": [
+   "Queso",
+   "Jamón",
+   "Carne Picante"
+  ],
+  "fechaDelPedido": "2019-10-31",
+  "horaDelPedido": "22:09:04",
+  "totalPedido": 494.7,
+  "descuento": 3
+ },
+ {
+  "idPedido": 3,
+  "esParaDelivery": true,
+  "direccionCliente": "Charcas",
+  "nombreCliente": "Alex",
+  "telefonoCliente": "577570732315",
+  "gustoPizza": "Napo",
+  "tamanioPizza": "Personal",
+  "conBebida": true,
+  "gustoBebida": "Coca-Cola",
+  "clienteHabitual": true,
+  "gustoEmpanadas": [
+   "Queso",
+   "Jamón",
+   "Humita"
+  ],
+  "fechaDelPedido": "2019-10-31",
+  "horaDelPedido": "22:09:29",
+  "totalPedido": 514.1,
+  "descuento": 3
+ },
+ {
+  "idPedido": 4,
+  "esParaDelivery": true,
+  "direccionCliente": "charcas 3222",
+  "nombreCliente": "Andy",
+  "telefonoCliente": "57474747474",
+  "gustoPizza": "4 quesos",
+  "tamanioPizza": "Grande",
+  "conBebida": true,
+  "gustoBebida": "7-up",
+  "clienteHabitual": true,
+  "gustoEmpanadas": [
+   "Queso",
+   "Jamón",
+   "Humita"
+  ],
+  "fechaDelPedido": "2019-10-31",
+  "horaDelPedido": "22:10:03",
+  "totalPedido": 690,
+  "descuento": 8
+ }
+]
